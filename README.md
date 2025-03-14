@@ -1,0 +1,1 @@
+Executed an advanced sentiment analysis initiative targeting the Middle East crisis(Israel vs Palestine)by leveraging cutting-edge deep learning methodology, particularly RoBERTa(Bidirectional Encoder Representations from Transformers).
